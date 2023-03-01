@@ -7,9 +7,9 @@ Em seguida, o código mostra um exemplo de uso do "if" (se) e "else" (senão) pa
 
 Condições simples e Condições compostas
 
- # if = se
- # senão = else
-    #exemplo
+ if = se
+ senão = else
+ exemplo
 tempo = int(input('Quantos anos tem seu carro?')) # Solicita ao usuário inserir o tempo em anos do carro e converte a entrada em um inteiro e armazena em "tempo".
 
 if tempo > 3: # Verifica se o valor de "tempo" é maior que 3.
